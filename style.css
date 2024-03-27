@@ -63,6 +63,9 @@ th, td {
     font-family: fantasy;
 }
 
+.header:hover{
+    color: SkyBlue;
+}
 .main{
     text-align: center;
 }
