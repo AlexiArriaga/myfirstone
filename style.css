@@ -55,3 +55,14 @@ th, td {
 #header{
     color: teal;
 }
+
+.header{
+    text-align: center;
+    color: red;
+    font-size: 40px;
+    font-family: fantasy;
+}
+
+.main{
+    text-align: center;
+}
